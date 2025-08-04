@@ -17,14 +17,6 @@ This is a web-based Question Answering (QA) system built using the pretrained Di
 - **AI Engine:** Hugging Face Transformers, DistilBERT
 - **Model:** `AsmaAwad/distilbert-base-uncased-NaturalQuestions`
 
-## 🖥️ Screenshots
-
-| Input Page | Output Page |
-|------------|-------------|
-| ![Input Screenshot](static/images/input_example.png) | ![Output Screenshot](static/images/output_example.png) |
-
-> _Note: Replace with actual screenshots in your project path._
-
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
